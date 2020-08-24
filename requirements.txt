@@ -3,8 +3,4 @@ requests
 pandas
 numpy
 plotly
-scipy
 voila
-django
-gunicorn
-django-heroku
